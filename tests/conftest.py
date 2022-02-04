@@ -6,16 +6,12 @@ import pickle
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from pathlib import Path
 
 chrome_options = Options()
+
 chrome_options.add_argument("--disable-extensions")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--headless")
-chrome_driver_path = Path('/home/jrankel/SauceDemo/resources/chromedriver')
-s = Service(chrome_driver_path)
-chrome_options = Options()
 
 @pytest.fixture(autouse=True)
 def my_logger():
@@ -32,7 +28,7 @@ def my_logger():
 @pytest.fixture(autouse=True)
 def registration():
     """Registration fixture"""
-    driver = webdriver.Chrome(service=s, options=chrome_options)
+    driver = webdriver.Chrome('/home/jrankel/SauceDemo/resources/chromedriver', options=chrome_options)
     driver.get('https://www.saucedemo.com/')
     driver.implicitly_wait(10)
     driver.maximize_window()
