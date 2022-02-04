@@ -1,0 +1,154 @@
+2022-02-04 20:25:45,924: INFO: We found element by ID. This tag "div" has "id": "root"
+2022-02-04 20:25:45,974: INFO: We found element by ID. This tag "div" has "id": "page_wrapper"
+2022-02-04 20:25:46,008: INFO: We found element by ID. This tag "div" has "id": "contents_wrapper"
+2022-02-04 20:25:46,047: INFO: We found element by ID. This tag "div" has "id": "header_container"
+2022-02-04 20:25:46,075: INFO: We found element by ID. This tag "div" has "id": "menu_button_container"
+2022-02-04 20:25:46,111: INFO: We found element by ID. This tag "button" has "id": "react-burger-menu-btn"
+2022-02-04 20:25:46,146: INFO: We found element by ID. This tag "div" has "id": ""
+2022-02-04 20:25:46,167: INFO: We found element by ID. This tag "a" has "id": "inventory_sidebar_link"
+2022-02-04 20:25:46,186: INFO: We found element by ID. This tag "a" has "id": "about_sidebar_link"
+2022-02-04 20:25:46,211: INFO: We found element by ID. This tag "a" has "id": "logout_sidebar_link"
+2022-02-04 20:25:46,230: INFO: We found element by ID. This tag "a" has "id": "reset_sidebar_link"
+2022-02-04 20:25:46,252: INFO: We found element by ID. This tag "button" has "id": "react-burger-cross-btn"
+2022-02-04 20:25:46,278: INFO: We found element by ID. This tag "div" has "id": "shopping_cart_container"
+2022-02-04 20:25:46,303: INFO: We found element by ID. This tag "div" has "id": "inventory_container"
+2022-02-04 20:25:46,328: INFO: We found element by ID. This tag "div" has "id": "inventory_container"
+2022-02-04 20:25:46,348: INFO: We found element by ID. This tag "a" has "id": "item_4_img_link"
+2022-02-04 20:25:46,366: INFO: We found element by ID. This tag "a" has "id": "item_4_title_link"
+2022-02-04 20:25:46,389: INFO: We found element by ID. This tag "button" has "id": "add-to-cart-sauce-labs-backpack"
+2022-02-04 20:25:46,406: INFO: We found element by ID. This tag "a" has "id": "item_0_img_link"
+2022-02-04 20:25:46,429: INFO: We found element by ID. This tag "a" has "id": "item_0_title_link"
+2022-02-04 20:25:46,451: INFO: We found element by ID. This tag "button" has "id": "add-to-cart-sauce-labs-bike-light"
+2022-02-04 20:25:46,474: INFO: We found element by ID. This tag "a" has "id": "item_1_img_link"
+2022-02-04 20:25:46,518: INFO: We found element by ID. This tag "a" has "id": "item_1_title_link"
+2022-02-04 20:25:46,534: INFO: We found element by ID. This tag "button" has "id": "add-to-cart-sauce-labs-bolt-t-shirt"
+2022-02-04 20:25:46,556: INFO: We found element by ID. This tag "a" has "id": "item_5_img_link"
+2022-02-04 20:25:46,576: INFO: We found element by ID. This tag "a" has "id": "item_5_title_link"
+2022-02-04 20:25:46,602: INFO: We found element by ID. This tag "button" has "id": "add-to-cart-sauce-labs-fleece-jacket"
+2022-02-04 20:25:46,624: INFO: We found element by ID. This tag "a" has "id": "item_2_img_link"
+2022-02-04 20:25:46,643: INFO: We found element by ID. This tag "a" has "id": "item_2_title_link"
+2022-02-04 20:25:46,667: INFO: We found element by ID. This tag "button" has "id": "add-to-cart-sauce-labs-onesie"
+2022-02-04 20:25:46,700: INFO: We found element by ID. This tag "a" has "id": "item_3_img_link"
+2022-02-04 20:25:46,719: INFO: We found element by ID. This tag "a" has "id": "item_3_title_link"
+2022-02-04 20:25:46,742: INFO: We found element by ID. This tag "button" has "id": "add-to-cart-test.allthethings()-t-shirt-(red)"
+2022-02-04 20:25:46,775: INFO: We found element by NAME. This tag "meta" has "name": "viewport"
+2022-02-04 20:25:46,800: INFO: We found element by NAME. This tag "meta" has "name": "theme-color"
+2022-02-04 20:25:46,826: INFO: We found element by NAME. This tag "meta" has "name": "description"
+2022-02-04 20:25:46,845: INFO: We found element by NAME. This tag "button" has "name": "add-to-cart-sauce-labs-backpack"
+2022-02-04 20:25:46,863: INFO: We found element by NAME. This tag "button" has "name": "add-to-cart-sauce-labs-bike-light"
+2022-02-04 20:25:46,887: INFO: We found element by NAME. This tag "button" has "name": "add-to-cart-sauce-labs-bolt-t-shirt"
+2022-02-04 20:25:46,907: INFO: We found element by NAME. This tag "button" has "name": "add-to-cart-sauce-labs-fleece-jacket"
+2022-02-04 20:25:46,923: INFO: We found element by NAME. This tag "button" has "name": "add-to-cart-sauce-labs-onesie"
+2022-02-04 20:25:46,942: INFO: We found element by NAME. This tag "button" has "name": "add-to-cart-test.allthethings()-t-shirt-(red)"
+2022-02-04 20:25:46,988: INFO: We found elements by CLASS NAME. This tag "div", has "class": page_wrapper
+2022-02-04 20:25:47,011: INFO: We found elements by CLASS NAME. This tag "div", has "class": header_container
+2022-02-04 20:25:47,030: INFO: We found elements by CLASS NAME. This tag "div", has "class": primary_header
+2022-02-04 20:25:47,051: INFO: We found elements by CLASS NAME. This tag "div", has "class": bm-burger-button
+2022-02-04 20:25:47,079: INFO: We found elements by CLASS NAME. This tag "img", has "class": bm-icon
+2022-02-04 20:25:47,103: INFO: We found elements by CLASS NAME. This tag "div", has "class": bm-menu-wrap
+2022-02-04 20:25:47,122: INFO: We found elements by CLASS NAME. This tag "div", has "class": bm-menu
+2022-02-04 20:25:47,140: INFO: We found elements by CLASS NAME. This tag "nav", has "class": bm-item-list
+2022-02-04 20:25:47,159: INFO: We found elements by CLASS NAME. This tag "a", has "class": bm-item menu-item
+2022-02-04 20:25:47,178: INFO: We found elements by CLASS NAME. This tag "a", has "class": bm-item menu-item
+2022-02-04 20:25:47,202: INFO: We found elements by CLASS NAME. This tag "a", has "class": bm-item menu-item
+2022-02-04 20:25:47,223: INFO: We found elements by CLASS NAME. This tag "a", has "class": bm-item menu-item
+2022-02-04 20:25:47,243: INFO: We found elements by CLASS NAME. This tag "div", has "class": bm-cross-button
+2022-02-04 20:25:47,262: INFO: We found elements by CLASS NAME. This tag "img", has "class": bm-cross
+2022-02-04 20:25:47,287: INFO: We found elements by CLASS NAME. This tag "div", has "class": header_label
+2022-02-04 20:25:47,317: INFO: We found elements by CLASS NAME. This tag "div", has "class": app_logo
+2022-02-04 20:25:47,336: INFO: We found elements by CLASS NAME. This tag "div", has "class": shopping_cart_container
+2022-02-04 20:25:47,360: INFO: We found elements by CLASS NAME. This tag "a", has "class": shopping_cart_link
+2022-02-04 20:25:47,381: INFO: We found elements by CLASS NAME. This tag "div", has "class": header_secondary_container
+2022-02-04 20:25:47,403: INFO: We found elements by CLASS NAME. This tag "span", has "class": title
+2022-02-04 20:25:47,427: INFO: We found elements by CLASS NAME. This tag "div", has "class": peek
+2022-02-04 20:25:47,450: INFO: We found elements by CLASS NAME. This tag "div", has "class": right_component
+2022-02-04 20:25:47,478: INFO: We found elements by CLASS NAME. This tag "span", has "class": select_container
+2022-02-04 20:25:47,501: INFO: We found elements by CLASS NAME. This tag "span", has "class": active_option
+2022-02-04 20:25:47,519: INFO: We found elements by CLASS NAME. This tag "select", has "class": product_sort_container
+2022-02-04 20:25:47,539: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_container
+2022-02-04 20:25:47,562: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_list
+2022-02-04 20:25:47,586: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item
+2022-02-04 20:25:47,604: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_img
+2022-02-04 20:25:47,629: INFO: We found elements by CLASS NAME. This tag "img", has "class": inventory_item_img
+2022-02-04 20:25:47,651: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_description
+2022-02-04 20:25:47,669: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_label
+2022-02-04 20:25:47,698: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_name
+2022-02-04 20:25:47,716: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_desc
+2022-02-04 20:25:47,736: INFO: We found elements by CLASS NAME. This tag "div", has "class": pricebar
+2022-02-04 20:25:47,758: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_price
+2022-02-04 20:25:47,773: INFO: We found elements by CLASS NAME. This tag "button", has "class": btn btn_primary btn_small btn_inventory
+2022-02-04 20:25:47,794: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item
+2022-02-04 20:25:47,817: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_img
+2022-02-04 20:25:47,838: INFO: We found elements by CLASS NAME. This tag "img", has "class": inventory_item_img
+2022-02-04 20:25:47,862: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_description
+2022-02-04 20:25:47,881: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_label
+2022-02-04 20:25:47,906: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_name
+2022-02-04 20:25:47,927: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_desc
+2022-02-04 20:25:47,950: INFO: We found elements by CLASS NAME. This tag "div", has "class": pricebar
+2022-02-04 20:25:47,969: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_price
+2022-02-04 20:25:47,993: INFO: We found elements by CLASS NAME. This tag "button", has "class": btn btn_primary btn_small btn_inventory
+2022-02-04 20:25:48,018: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item
+2022-02-04 20:25:48,033: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_img
+2022-02-04 20:25:48,052: INFO: We found elements by CLASS NAME. This tag "img", has "class": inventory_item_img
+2022-02-04 20:25:48,075: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_description
+2022-02-04 20:25:48,103: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_label
+2022-02-04 20:25:48,125: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_name
+2022-02-04 20:25:48,147: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_desc
+2022-02-04 20:25:48,170: INFO: We found elements by CLASS NAME. This tag "div", has "class": pricebar
+2022-02-04 20:25:48,199: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_price
+2022-02-04 20:25:48,216: INFO: We found elements by CLASS NAME. This tag "button", has "class": btn btn_primary btn_small btn_inventory
+2022-02-04 20:25:48,233: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item
+2022-02-04 20:25:48,259: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_img
+2022-02-04 20:25:48,289: INFO: We found elements by CLASS NAME. This tag "img", has "class": inventory_item_img
+2022-02-04 20:25:48,320: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_description
+2022-02-04 20:25:48,335: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_label
+2022-02-04 20:25:48,359: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_name
+2022-02-04 20:25:48,385: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_desc
+2022-02-04 20:25:48,401: INFO: We found elements by CLASS NAME. This tag "div", has "class": pricebar
+2022-02-04 20:25:48,422: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_price
+2022-02-04 20:25:48,444: INFO: We found elements by CLASS NAME. This tag "button", has "class": btn btn_primary btn_small btn_inventory
+2022-02-04 20:25:48,472: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item
+2022-02-04 20:25:48,495: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_img
+2022-02-04 20:25:48,514: INFO: We found elements by CLASS NAME. This tag "img", has "class": inventory_item_img
+2022-02-04 20:25:48,538: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_description
+2022-02-04 20:25:48,565: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_label
+2022-02-04 20:25:48,587: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_name
+2022-02-04 20:25:48,607: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_desc
+2022-02-04 20:25:48,628: INFO: We found elements by CLASS NAME. This tag "div", has "class": pricebar
+2022-02-04 20:25:48,650: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_price
+2022-02-04 20:25:48,669: INFO: We found elements by CLASS NAME. This tag "button", has "class": btn btn_primary btn_small btn_inventory
+2022-02-04 20:25:48,699: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item
+2022-02-04 20:25:48,723: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_img
+2022-02-04 20:25:48,747: INFO: We found elements by CLASS NAME. This tag "img", has "class": inventory_item_img
+2022-02-04 20:25:48,770: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_description
+2022-02-04 20:25:48,793: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_label
+2022-02-04 20:25:48,815: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_name
+2022-02-04 20:25:48,836: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_desc
+2022-02-04 20:25:48,857: INFO: We found elements by CLASS NAME. This tag "div", has "class": pricebar
+2022-02-04 20:25:48,878: INFO: We found elements by CLASS NAME. This tag "div", has "class": inventory_item_price
+2022-02-04 20:25:48,900: INFO: We found elements by CLASS NAME. This tag "button", has "class": btn btn_primary btn_small btn_inventory
+2022-02-04 20:25:48,918: INFO: We found elements by CLASS NAME. This tag "footer", has "class": footer
+2022-02-04 20:25:48,939: INFO: We found elements by CLASS NAME. This tag "ul", has "class": social
+2022-02-04 20:25:48,956: INFO: We found elements by CLASS NAME. This tag "li", has "class": social_twitter
+2022-02-04 20:25:48,974: INFO: We found elements by CLASS NAME. This tag "li", has "class": social_facebook
+2022-02-04 20:25:48,992: INFO: We found elements by CLASS NAME. This tag "li", has "class": social_linkedin
+2022-02-04 20:25:49,013: INFO: We found elements by CLASS NAME. This tag "div", has "class": footer_copy
+2022-02-04 20:25:49,033: INFO: We found elements by CLASS NAME. This tag "img", has "class": footer_robot
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Backpack" costs $29.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Backpack" costs $29.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Backpack" costs $29.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Bike Light" costs $9.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Bike Light" costs $9.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Bike Light" costs $9.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Bolt T-Shirt" costs $15.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Bolt T-Shirt" costs $15.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Bolt T-Shirt" costs $15.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Fleece Jacket" costs $49.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Fleece Jacket" costs $49.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Fleece Jacket" costs $49.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Onesie" costs $7.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Onesie" costs $7.99
+2022-02-04 20:25:59,519: INFO: This product: "Sauce Labs Onesie" costs $7.99
+2022-02-04 20:25:59,519: INFO: This product: "Test.allTheThings() T-Shirt (Red)" costs $15.99
+2022-02-04 20:25:59,519: INFO: This product: "Test.allTheThings() T-Shirt (Red)" costs $15.99
+2022-02-04 20:25:59,519: INFO: This product: "Test.allTheThings() T-Shirt (Red)" costs $15.99
