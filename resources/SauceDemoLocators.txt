@@ -1,0 +1,32 @@
+url = https://www.saucedemo.com/
+test_username = standard_user
+test_password = secret_sauce
+swag_logo_main_page:
+driver.find_element(By.TAG_NAME, "div.login_logo")
+driver.find_element(By.CLASS_NAME, "login_logo")
+driver.find_element(By.CSS_SELECTOR, "div.login_logo")
+driver.find_element(By.XPATH, "//*[@id='root']/div/div[1]")
+bot_picture_main_page:
+driver.find_element(By.TAG_NAME, "div.bot_column")
+driver.find_element(By.CLASS_NAME, "bot_column")
+driver.find_element(By.CSS_SELECTOR, "div.bot_column")
+driver.find_element(By.XPATH, "//*[@id='root']/div/div[2]/div[1]/div[2]")
+login_field_main_page:
+driver.find_element(By.ID, "user-name")
+driver.find_element(By.NAME, "user-name")
+driver.find_element(By.CSS_SELECTOR, "#user-name")
+driver.find_element(By.XPATH, "//*[@id='user-name']")
+password_field_main_page:
+driver.find_element(By.ID, "password")
+driver.find_element(By.NAME, "password")
+driver.find_element(By.CSS_SELECTOR, "#password")
+driver.find_element(By.XPATH, "//*[@id='password']")
+login_button_main_page:
+driver.find_element(By.ID, "login-button")
+driver.find_element(By.NAME, "login-button")
+driver.find_element(By.TAG_NAME, "input.submit-button")
+driver.find_element(By.CLASS_NAME, "submit-button")
+driver.find_element(By.CSS_SELECTOR, "#login-button")
+driver.find_element(By.XPATH, "//*[@id='login-button']")
+
+
