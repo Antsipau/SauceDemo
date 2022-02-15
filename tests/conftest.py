@@ -28,7 +28,7 @@ def my_logger():
 @pytest.fixture(autouse=True)
 def registration():
     """Registration fixture"""
-    driver = webdriver.Chrome('/home/jrankel/SauceDemo/resources/chromedriver', options=chrome_options)
+    driver = webdriver.Chrome('/home/jrankel/Resources/chromedriver', options=chrome_options)
     driver.get('https://www.saucedemo.com/')
     driver.implicitly_wait(10)
     driver.maximize_window()
